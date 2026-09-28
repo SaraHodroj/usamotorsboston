@@ -1,0 +1,50 @@
+{
+  "oil-special": {
+    "id": "oil-special",
+    "title": "Full synthetic oil change",
+    "description": "Up to 5 quarts of full synthetic oil, new filter, tire rotation and a free multi-point check.",
+    "price": "$49",
+    "wasPrice": "$69",
+    "tag": "This week only",
+    "validUntil": "",
+    "active": true,
+    "featured": true,
+    "updatedAt": 1790600000000
+  },
+  "inspection-deal": {
+    "id": "inspection-deal",
+    "title": "Inspection + free brake check",
+    "description": "Get your state inspection done and we'll measure your brake pads and rotors at no extra charge.",
+    "price": "Free brake check",
+    "wasPrice": "",
+    "tag": "Service",
+    "validUntil": "",
+    "active": true,
+    "featured": false,
+    "updatedAt": 1790590000000
+  },
+  "suv-deal": {
+    "id": "suv-deal",
+    "title": "$500 off any SUV on the lot",
+    "description": "Take $500 off the listed price of any pre-owned SUV when you buy this week. Ask about trade-ins.",
+    "price": "$500 off",
+    "wasPrice": "",
+    "tag": "Vehicles",
+    "validUntil": "",
+    "active": true,
+    "featured": false,
+    "updatedAt": 1790580000000
+  },
+  "chains-early": {
+    "id": "chains-early",
+    "title": "Early-bird chains fitting",
+    "description": "Buy any set of tire chains and we'll size and fit them for free, plus a free storage bag.",
+    "price": "Free fitting",
+    "wasPrice": "$25",
+    "tag": "Winter prep",
+    "validUntil": "",
+    "active": true,
+    "featured": false,
+    "updatedAt": 1790570000000
+  }
+}
