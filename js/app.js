@@ -328,7 +328,7 @@ $("#footer").innerHTML = `
   <div><h4>USA Motors</h4><p style="max-width:30em">New and pre-owned vehicle sales, auto repair, state inspection and chains.</p><p>${esc(BUSINESS.address)}<br><a style="display:inline" href="tel:${BUSINESS.phoneLink}">${esc(BUSINESS.phone)}</a></p></div>
   <div><h4>Explore</h4><a href="#/inventory">All vehicles</a><a href="#/inventory?c=used">Pre-owned vehicles</a><a href="#/offers">Weekly offers</a><a href="#/contact">Contact &amp; booking</a></div>
   <div><h4>Services</h4><a href="#/inspection">State inspection</a><a href="#/repair">Auto repair</a><a href="#/chains">Chains</a></div>
-  <div class="fine"><span>© ${new Date().getFullYear()} USA Motors. All rights reserved.</span><a href="admin/" style="display:inline">Staff login</a></div>`;
+  <div class="fine"><span>© ${new Date().getFullYear()} Developed By Sara Hodroj, For more info contact sara.hodroj8@gmail.com</span><a href="admin/" style="display:inline">Staff login</a></div>`;
 
 let currentRoute = "";
 function router(){
