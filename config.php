@@ -1,8 +1,8 @@
 <?php
-define('ADMIN_PASSWORD', 'Papi2322@');
+define('ADMIN_PASSWORD', '-');
 
 // Booking requests from the Contact page are emailed here.
-define('SHOP_EMAIL', 'elrihane@yahoo.com');
+define('SHOP_EMAIL', '-');
 
 // Your time zone (used for offer end dates).
 date_default_timezone_set('America/New_York');
